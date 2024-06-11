@@ -79,4 +79,4 @@ Digital decluttering is the idea that we need to declutter our digital lives jus
 ## References and further reading
 * [University of Glasgow file naming tips](https://edshare.gla.ac.uk/807/1/File_Naming_v2_20200608.pdf)
 * [University of Aberdeen file naming conventions](https://www.abdn.ac.uk/staffnet/documents/policy-zone-information-policies/File%20Naming%20Conventions%20July%202017.pdf)
-* [Princeton University Library guide for file names](https://libguides.princeton.edu/c.php?g=102546&p=930626)
+  
